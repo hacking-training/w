@@ -2,7 +2,7 @@
 
 For Ethical Hacking Training information go to: https://h4cker.org
 
-## The Art of Hacking Videos**
+## The Art of Hacking Videos
 The Art of Hacking is a series of on-demand video courses where you learn the key tenets of ethical hacking and security penetration testing techniques. These video courses provide step-by-step real-life scenarios. 
 
 ## Ethical Hacking Safari Live Training
